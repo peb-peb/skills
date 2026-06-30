@@ -1,5 +1,5 @@
 ---
-name: cpto-doc
+name: plan-cpto-review
 description: >-
   Rewrite or draft any document — PRD, technical design, RFC, ops runbook,
   strategy memo, status update — into concise, jargon-free, decision-ready prose
